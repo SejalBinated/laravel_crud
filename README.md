@@ -3,3 +3,4 @@
 ![Screenshot 2023-12-19 at 11 34 09 AM](https://github.com/SejalBinated/laravel_crud/assets/149779392/6c1eaa11-8e28-4e67-af7c-2c9971110894)
 ![Screenshot 2023-12-19 at 11 34 03 AM](https://github.com/SejalBinated/laravel_crud/assets/149779392/a7c7abaf-e376-458e-9341-9be4e4afd94a)
 ![Screenshot 2023-12-19 at 11 33 47 AM](https://github.com/SejalBinated/laravel_crud/assets/149779392/2d653f65-11b8-4585-844f-dce6b090d766)
+![Screenshot 2023-12-19 at 11 39 48 AM](https://github.com/SejalBinated/laravel_crud/assets/149779392/c44fe9bf-5335-4371-aa00-3bb6f61f3e53)
